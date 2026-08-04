@@ -1,16 +1,92 @@
-## Hi there 👋
+<h1 align="center">
+  Hi, I'm <span style="color:#00F7FF;">Shrey Mistry! 😊</span>
+</h1>
 
-<!--
-**Mistryshrey/Mistryshrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 IT Student | 💻 Full Stack Developer | 🌱 Always Learning
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Building+Real-World+Projects;Always+Learning+Something+New;Welcome+to+My+GitHub+🚀" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mistryshrey/Mistryshrey/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+> **⚠️ Note:** If this section is blank, you haven't generated `github-metrics.svg` yet. It requires a GitHub Action.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 IT Student passionate about **Software Development**.
+- 💻 Currently focusing on **Python** & **Real-World Full-Stack Projects**.
+- 🚀 Building impactful and scalable applications.
+- 🌱 Constantly learning new technologies.
+- 🎯 Aspiring Software Engineer.
+- ⚡ I love solving real-world problems with code.
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mistryshrey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,mysql,git,github,vscode&perline=9"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shrey-mistry-9b9012341">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:maitryshrey06@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+## ✨ Favorite Quotes
+
+<div align="center">
+
+> *"We accept the love we think we deserve."*  
+> **— The Perks of Being a Wallflower**
+
+<br>
+
+> *"The hardest choices require the strongest wills."*  
+> **— Avengers: Infinity War**
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mistryshrey&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my GitHub Profile ⭐
+</h3>

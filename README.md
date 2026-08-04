@@ -43,14 +43,10 @@
 
 ---
 
-## ✨ Favorite Quotes
-
 <div align="center">
 
 > *"We accept the love we think we deserve."*  
 > **— The Perks of Being a Wallflower**
-
-<br>
 
 > *"The hardest choices require the strongest wills."*  
 > **— Avengers: Infinity War**

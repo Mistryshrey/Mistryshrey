@@ -17,24 +17,24 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Mistryshrey
+
           template: classic
+          filename: github-metrics.svg
+
+          # Base sections
           base: header, activity, community, repositories, metadata
 
+          # Languages (keep this)
           plugin_languages: yes
           plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
 
-          plugin_isocalendar: yes
-
-          plugin_habits: yes
-
-          plugin_achievements: yes
-
-          plugin_stars: yes
-
-          plugin_followup: yes
-
-          plugin_repositories: yes
-
-          plugin_topics: yes
-
-          filename: github-metrics.svg
+          # Remove everything below Languages
+          plugin_isocalendar: no
+          plugin_habits: no
+          plugin_achievements: no
+          plugin_stars: no
+          plugin_followup: no
+          plugin_repositories: no
+          plugin_topics: no

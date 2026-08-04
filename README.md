@@ -18,10 +18,6 @@
   <img src="https://raw.githubusercontent.com/Mistryshrey/Mistryshrey/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
-> **⚠️ Note:** If this section is blank, you haven't generated `github-metrics.svg` yet. It requires a GitHub Action.
-
----
-
 ## 👨‍💻 About Me
 
 - 🎓 IT Student passionate about **Software Development**.
@@ -30,18 +26,6 @@
 - 🌱 Constantly learning new technologies.
 - 🎯 Aspiring Software Engineer.
 - ⚡ I love solving real-world problems with code.
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mistryshrey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,mysql,git,github,vscode&perline=9"/>
-</p>
 
 ---
 
